@@ -7,3 +7,5 @@ Um aplicativo simples que exibe uma tela com uma imagem. Foi desenvolvido como d
     Scaffold
     centralização de widgets com Center
     Adicionar ícone para aplicativo
+
+<img align="center" alt="imc-app" height="350" style="border-radius:50px;" src="file:///Users/luana/Desktop/app-image.png">
