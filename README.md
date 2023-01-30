@@ -8,4 +8,5 @@ Um aplicativo simples que exibe uma tela com uma imagem. Foi desenvolvido como d
     centralização de widgets com Center
     Adicionar ícone para aplicativo
 
-<img align="center" alt="imc-app" height="350" style="border-radius:50px;" src="file:///Users/luana/Desktop/app-image.png">
+
+![app-image](https://user-images.githubusercontent.com/102997834/215522093-f82164bc-ea11-4369-a602-696e06ebc1ed.png)
